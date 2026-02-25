@@ -1,7 +1,6 @@
-<img width="1066" height="760" alt="image" src="https://github.com/user-attachments/assets/09314d31-01b8-4e8a-b95a-aec0b4d6703a" /># EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:15-02-2026
-##reg.No:212225100002
-##Name:Amrita B S
+## reg.No:212225100002
+## Name:Amrita B S
 ## AIM:
 To create a 3D model from given orthographic projection.
 
